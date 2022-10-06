@@ -1,0 +1,4 @@
+#!/bin/bash
+ls -lan
+ls -lan cd -P
+ls -lan /boot
