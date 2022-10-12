@@ -1,0 +1,2 @@
+#!/bin/bash
+echo | tail iacta | tail +9 iacta
