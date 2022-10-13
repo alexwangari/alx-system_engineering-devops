@@ -1,2 +1,2 @@
 #!/bin/bash
-sort list > sorted.txt | uniq sorted.txt
+tr ' ' '\n' < list | sort | uniq -c
